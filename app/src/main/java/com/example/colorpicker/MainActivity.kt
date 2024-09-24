@@ -44,6 +44,7 @@ class MainActivity : AppCompatActivity() {
             openColorPickerDialogue()
         }
 
+
         // Button to set the color of GFG text
         mSetColorButton.setOnClickListener {
             // Use the mDefaultColor to set the text color
